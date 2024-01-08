@@ -14,7 +14,7 @@ function App() {
   return (
     <>
       <div className=" bg-gray-900 scroll-smooth snap-y bg-contain">
-        <div className=" animate-slide relative bg-[url(assets/fox.png)] p-10 bg-fixed bg-cover bg-bottom bg-origin-padding bg-left md:bg-center min-h-screen w-full m-0 bg-contain">
+        <div className=" animate-slide relative bg-[url(assets/fox.png)] p-10 bg-fixed   bg-origin-padding bg-left md:bg-center min-h-screen w-full m-0 bg-contain">
           <Navbar />
           <Home />
           <Features />
